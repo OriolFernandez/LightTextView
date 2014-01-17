@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	 <declare-styleable name="TextViewInTheDarkView">
+	    <attr name="minTextSize" format="float" />
+	    <attr name="maxTextSize" format="float" />
+	</declare-styleable>
+</resources>
